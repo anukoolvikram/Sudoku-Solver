@@ -1,4 +1,5 @@
 **Sudoku Solver**
+
 This Python script generates a Sudoku puzzle, removes some of the numbers to create a puzzle with blanks, and allows the user to solve the puzzle interactively.
 
 **Features**
